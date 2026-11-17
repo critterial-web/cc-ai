@@ -1,0 +1,6 @@
+{
+  "name": "NusaPangan — Laboratorium Interaktif SDG 2: Zero Hunger",
+  "description": "Aplikasi web edukasi dan simulasi interaktif bertema SDG 2: Tanpa Kelaparan (Zero Hunger) untuk pelajar SMA kelas XI mengeksplorasi ketahanan pangan, gizi seimbang, dan inovasi aksi sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
